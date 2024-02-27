@@ -24,7 +24,7 @@ Xxxxx
 
 ## 🎮**项目贡献墙**
 
-+ **🆕[那路](https://github.com/SaaRaaS-1300) And [尖米](https://github.com/JimmyMa99) -> 项目负责人🆕**
++ **🆕[那路](https://github.com/SaaRaaS-1300) And [尖米](https://github.com/JimmyMa99) -> 项目负责🆕**
 
 + **🆕Xxxxx🆕**
 
