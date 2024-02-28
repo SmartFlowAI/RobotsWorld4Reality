@@ -6,7 +6,7 @@ from queue import Queue
 
 
 # 群聊 - 服务端
-class Server:
+class ServerBot:
     """
         host -> 地址
         port -> 端口
@@ -96,5 +96,6 @@ class Server:
 
 # server test
 if __name__ == "__main__":
-    server = Server()
-    server.start_server()
+    server = ServerBot()
+    server.start()
+    
