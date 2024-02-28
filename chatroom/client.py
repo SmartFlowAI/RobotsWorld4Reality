@@ -52,7 +52,4 @@ class ClientBot:
         except Exception as e:
             print("Connection error:", e)
             self.socket.close()
-
-if __name__ == "__main__":
-    client = Client()
-    client.run()
+            

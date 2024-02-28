@@ -6,7 +6,7 @@ from queue import Queue
 
 
 # 群聊 - 服务端
-class Server:
+class ServerBot:
     """
         host -> 地址
         port -> 端口
