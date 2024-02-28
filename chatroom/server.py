@@ -93,9 +93,3 @@ class ServerBot:
         # 将客户端对象从队列中移除
         if client in self.queue.queue:
             self.queue.queue.remove(client)
-
-# server test
-if __name__ == "__main__":
-    server = ServerBot()
-    server.start()
-    
